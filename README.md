@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @albertprajwal adhikari
-- 👀 I’m interested in football
-- 🌱 I’m currently learning wbb security
-- 💞️ I’m looking to collaborate on gov
-- 📫 How to reach 
+- 👋 Hi, I’m Prajwal Adhikari
+- 👀 I’m interested in offensive
+- 🌱 I’m currently learning book
+- 📫 How to reach in anynonoymous circle?
 
 <!---
 albertprajwa/albertprajwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
