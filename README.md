@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @albertprajwal adhikari
-- 👀 I’m interested in hacking
+- 👀 I’m interested in football
 - 🌱 I’m currently learning wbb security
 - 💞️ I’m looking to collaborate on gov
 - 📫 How to reach 
